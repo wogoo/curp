@@ -10,4 +10,4 @@ ___
 
 ## Projeto Pessoal
 
-Este projeto foi idealizado, com a itenção de apresentar o curriculo no formato web e praticar acerca das tecnologias utilizadas.
+Este projeto foi idealizado, com a intenção de apresentar o currículo no formato web e praticar acerca das tecnologias utilizadas.
