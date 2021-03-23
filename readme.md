@@ -1,13 +1,13 @@
-#Descrição 
+# Descrição 
 ___
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 + HTM5 
  
 + CSS/BOOTSTRAP/TAILWIND CSS
 + JS
 ___
 
-##Projeto Pessoal
+## Projeto Pessoal
 
 Este projeto foi idealizado, com a itenção de apresentar o curriculo no formato web e praticar acerca das tecnologias utilizadas.
